@@ -48,7 +48,7 @@
 						<username>AlgoliaSample</username>
 						<password>Algolia#123</password>
 						<applicationName>algolia-app-demo</applicationName>
-						<environment>${env}</environment>
+						<environment>dev</environment>
 						<region>us-east-2</region>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
