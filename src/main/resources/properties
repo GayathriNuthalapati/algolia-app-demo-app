@@ -1,0 +1,7 @@
+anypoint.platform.client_id=46e82a3911ad4317a27de8615b56e0a6
+
+anypoint.platform.client_secret=Ca66053c2abC45918150C3868A9b6f3F
+
+anypoint.platform.base_uri=https://eu1.anypoint.mulesoft.com
+
+anypoint.platform.analytics_base_uri=https://analytics-ingest.eu1.anypoint.mulesoft.com

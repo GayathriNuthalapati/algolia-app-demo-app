@@ -1,0 +1,8 @@
+platform:
+  client_id: "![zQBW9rz3wWTdtERCeM05LpQU9YlpOiBUvd2cENg3Mn5lPudyvV0JwQ==]"
+  client_secret: "![YpHEwFmEUklcPyu8yBZ0PiBe3yZVHTz1U68OAoUuOGHdpV2N/VAn+w==]"
+ 
+api:
+  id: "![EES4amjmePxnJcD+76AvPw==]"
+
+env: "dev"    

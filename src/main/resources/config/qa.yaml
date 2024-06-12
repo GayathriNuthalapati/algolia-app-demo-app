@@ -1,0 +1,8 @@
+platform:
+  client_id: "![zYE8SW6Pb83ynKlNH9igovqSpsQS0XWByIkMZCaCFmBEeHfvUNajcA==]"
+  client_secret: "![sEi+UTDeIx2Fq5ssmUZyywrubdmEdT4eKFTXTqdxmYdPcutifOrnOw==]"
+  
+api:
+  id: "![GooGD3aHDuj4sB+kX5SriA==]"
+  
+env: "qa"  

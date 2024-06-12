@@ -1,0 +1,8 @@
+platform:
+  client_id: "![iaweeldShmBKaaIx1ILcq8dvBrqc/oscp5cWKRaaMUvrdXwcVjiKvQ==]"
+  client_secret: "![3xRg6VfUNnzOeJ59+ep3ePgxEZmVekt5UQcu3B4/1iH02Ve+9ocTuw==]"
+  
+api:
+  id: "![42JkTyFvzQQJUMMW6QPACA==]"
+  
+env: "prod"  
