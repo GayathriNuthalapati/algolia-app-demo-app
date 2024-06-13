@@ -69,7 +69,7 @@ jobs:
         PLATFORM_CLIENT_SECRET: ${{secrets.dev_client_secret}}
       run: |
         artifactName=$(ls *.jar | head -1)
-        mvn deploy -DmuleDeploy \
+        mvn clean package -DmuleDeploy -Dmule.runtime.version=4.4.0 \
          -Dmule.artifact=$artifactName \
          -Danypoint.username="$USERNAME" \
          -Danypoint.password="$PASSWORD" \
