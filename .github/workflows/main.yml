@@ -74,8 +74,8 @@ jobs:
          -Danypoint.username="$USERNAME" \
          -Danypoint.password="$PASSWORD" \
          -Ddecryption.key="$KEY" \
-         -Denv=prod \
-         -Dappname=algolia-app-prod-111 \
+         -Denv=dev \
+         -Dappname=algolia-app-demo \
          -Dapi.id="$API_ID" \
          -Danypoint.platform.client_id="$PLATFORM_CLIENT_ID" \
          -Danypoint.platform.client_secret="$PLATFORM_CLIENT_SECRET"
