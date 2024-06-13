@@ -61,6 +61,8 @@ jobs:
       env:
         USERNAME: ${{ secrets.connected_app_client_id }}
         PASSWORD: ${{ secrets.connected_app_client_secret}}
+        PLATFORM_CLIENT_ID: ${{secrets.dev_client_id}}
+        PLATFORM_CLIENT_SECRET: ${{secrets.dev_client_secret}}
       run: |
         artifactName=$(ls *.jar | head -1)
         mvn clean package -DmuleDeploy -Dmule.runtime.version=4.4.0 \
